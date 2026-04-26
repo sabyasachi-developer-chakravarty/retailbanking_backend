@@ -36,6 +36,7 @@ const seedDatabase = async () => {
         "approve_transaction",
         "reject_transaction",
         "view_all_accounts",
+        "manage_accounts",
         "manage_users",
         "view_audit_logs",
       ],
@@ -54,6 +55,7 @@ const seedDatabase = async () => {
         "view_all_accounts",
         "approve_transaction",
         "reject_transaction",
+        "manage_accounts",
       ],
     });
 
